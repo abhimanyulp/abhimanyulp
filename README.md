@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu</h1>
 <h3 align="center">A recent graduate with a strong foundation in Node.js, Express.js and MongoDB. Passionate about building scalable and secure web applications. A detail-oriented and collaborative team player committed to continuous learning and growth. Excited to contribute to the success of the organization.</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fhow-to-hire-ruby-on-rails-developer-or-programmer--380765343496779495%2F&psig=AOvVaw1gZ4awI2liyCsyzjuV6Hm_&ust=1681835775790000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMinwtSssf4CFQAAAAAdAAAAABAI">
+<img align="right" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyulp&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyulp" /> </p>
 
