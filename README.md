@@ -2,7 +2,7 @@
 A recent graduate with a strong foundation in backend technologies including Node.js, Express.js, and MongoDB. Proficient in frontend technologies such as HTML, CSS, JavaScript, and React.js. Passionate about building scalable and secure web applications. A detail-oriented and collaborative team player committed to continuous learning and growth. Excited to contribute to the success of the organization
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lp.abhimanyu@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhimanyulp) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abhimanyulp) 
 
 
