@@ -1,5 +1,3 @@
-![github-header-image (1)](https://github.com/abhimanyulp/abhimanyulp/assets/119414340/b96d93d9-c9e3-428b-a7e9-964677767766)
-
 # 💫 About Me:
 A recent graduate with a strong foundation in backend technologies including Node.js, Express.js, and MongoDB. Proficient in frontend technologies such as HTML, CSS, JavaScript, and React.js. Passionate about building scalable and secure web applications. A detail-oriented and collaborative team player committed to continuous learning and growth. Excited to contribute to the success of the organization
 </br>
