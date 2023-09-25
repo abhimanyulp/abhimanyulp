@@ -1,5 +1,16 @@
 # 💫 About Me:
-A recent graduate with a strong foundation in backend technologies including Node.js, Express.js, and MongoDB. Proficient in frontend technologies such as HTML, CSS, JavaScript, and React.js. Passionate about building scalable and secure web applications. A detail-oriented and collaborative team player committed to continuous learning and growth. Excited to contribute to the success of the organization
+
+👋 Hi there! I'm an adaptable full-stack developer with proficiency in Node.js and React. I have a strong aptitude for problem-solving and a proven ability to excel in both solo and collaborative project environments. I'm passionate about technology, especially Generative AI, and I love diving into new technical stacks to expand my skillset.
+
+Here's a bit more about me:
+
+- 💻 I'm constantly exploring the world of software development, seeking out new challenges and opportunities to learn and grow.
+- 🚀 I enjoy working on projects that involve cutting-edge technologies and innovative solutions.
+- 👥 Collaboration is key to me, and I thrive when working with diverse teams to build exceptional software.
+- 📚 I'm always expanding my knowledge and staying up-to-date with the latest industry trends and best practices.
+
+Feel free to connect with me, explore my repositories, and let's build awesome things together! 🌟
+
 </br>
 </br>
 # 🌐 Socials:
