@@ -12,7 +12,7 @@ Here's a bit more about me:
 Feel free to connect with me, explore my repositories, and let's build awesome things together! 🌟
 
 </br>
-</br>
+
 # 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abhimanyulp.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lp.abhimanyu@gmail.com) 
